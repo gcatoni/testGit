@@ -9,7 +9,7 @@
     <form>
     	<input type="text" name="nom">
     	<input type="text" name="message">
-    	<input type="sub" value="Envoyer">
+    	<input type="submit" value="Envoyer">
     </form>
   </body>
 </html>
