@@ -7,6 +7,7 @@
   <body>
     <h1>Ici Mon formulaire de contact</h1>
     <form>
+    	<input type="text" name="nom">
     	<input type="text" name="message">
     	<input type="submit" value="Envoyer">
     </form>
